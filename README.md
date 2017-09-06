@@ -1,2 +1,2 @@
 # SodaCounter
-Keep Track of your soda/snack tab at the office with text file backup
+Keep track of your soda and/or snack tab at the office! Has a text file backup.
