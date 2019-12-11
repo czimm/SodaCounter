@@ -1,0 +1,12 @@
+C:\dev\SodaCounter\SodaCounter\bin\Debug\SodaCounter.exe.config
+C:\dev\SodaCounter\SodaCounter\bin\Debug\SodaCounter.exe
+C:\dev\SodaCounter\SodaCounter\bin\Debug\SodaCounter.pdb
+C:\dev\SodaCounter\SodaCounter\bin\Debug\SodaCounter.xml
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.vbprojAssemblyReference.cache
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.Form1.resources
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.Resources.resources
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.vbproj.GenerateResource.cache
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.vbproj.CoreCompileInputs.cache
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.exe
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.xml
+C:\dev\SodaCounter\SodaCounter\obj\Debug\SodaCounter.pdb
